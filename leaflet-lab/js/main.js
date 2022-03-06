@@ -1,7 +1,7 @@
 /* JavaScript by Andrew Sirota, 2022. 
-Code and approach modified from lab exercises, 
+Code and approach modified from lab exercises and
 stackovervlow contributions at 
-https://stackoverflow.com/questions/16148598/leaflet-update-geojson-filter, and githubrepositories of tburciaga
+https://stackoverflow.com/questions/16148598/leaflet-update-geojson-filter
 */
 
 /*$(document).ready(function() {*/
